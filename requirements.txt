@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+librosa
+matplotlib
+opencv-python
+Pillow
+PyYAML
+tqdm
+python-dotenv
+ultralytics

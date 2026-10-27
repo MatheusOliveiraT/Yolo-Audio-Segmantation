@@ -1,0 +1,19 @@
+# Configuração local (caminhos da máquina)
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Dados e saídas de treino
+*.wav
+*.WAV
+*.mp3
+*.csv
+runs/
+**/data/
+**/images/
+**/labels/
+**/reconstructions/
+*.pt
+*.png
+!docs/*.png
