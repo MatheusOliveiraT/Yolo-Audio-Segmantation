@@ -1,8 +1,8 @@
 # Segmentação automática de vocalizações de aves com YOLO
 
-Código do estágio supervisionado e do trabalho de conclusão de curso (TCC) em Ciência da Computação (UTFPR, Câmpus Campo Mourão) sobre **localização espaço-temporal de vocalizações de aves** em gravações de monitoramento acústico passivo (PAM). Os áudios são convertidos em espectrogramas na escala Mel e tratados como imagens; o **YOLO** prevê caixas delimitadoras (tempo × frequência) para cada vocalização.
+Código do trabalho de iniciação científica em Ciência da Computação (UTFPR, Câmpus Campo Mourão) sobre **localização espaço-temporal de vocalizações de aves** em gravações de monitoramento acústico passivo (PAM). Os áudios são convertidos em espectrogramas na escala Mel e tratados como imagens; o **YOLO** prevê caixas delimitadoras (tempo × frequência) para cada vocalização.
 
-> Autor: Matheus de Oliveira Teixeira · Supervisor: Prof. Dr. Juliano Henrique Foleis · Orientador de estágio: Prof. Eduardo Henrique Pena
+> Autor: Matheus de Oliveira Teixeira · Orientador: Prof. Dr. Juliano Henrique Foleis
 
 ## Visão geral
 
@@ -137,7 +137,7 @@ Valores de blocos distintos não são diretamente comparáveis (partição dos d
 ## Como citar
 
 ```
-TEIXEIRA, M. O. Segmentação automática de vocalizações de aves com YOLO em espectrogramas Mel.
+TEIXEIRA, M. O. Segmentação de Vocalizações de Pássaros com YOLO: Avaliação de Técnicas de Processamento de Sinais e Limpeza de Anotações.
 Trabalho de Conclusão de Curso (Bacharelado em Ciência da Computação) — UTFPR, Câmpus Campo Mourão, 2026.
 ```
 
